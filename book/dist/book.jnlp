@@ -8,7 +8,7 @@
     <update check="always"/>
     <resources>
         <j2se version="11.0.8+" href="http://java.sun.com/products/autodl/j2se"/>
-        <jar href="book.jar" size="3384" download="eager"/>
+        <jar href="book.jar" size="6369" download="eager"/>
     </resources>
     <jfx:javafx-desc width="800" height="600" main-class="book.Book" name="Book"/>
 </jnlp>
